@@ -1,9 +1,6 @@
 ### Hi there 👋
 
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on WebDevelopment
 - 🌱 I’m currently learning Backend
 - 👯 I’m looking to collaborate on opensource projects
@@ -11,5 +8,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about Web_Development & Rock music 
 - 📫 How to reach me: ShivamTyagi12345.github.io 
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: i hv just begun:)
+- ⚡ Fun fact: :)
 
