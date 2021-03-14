@@ -10,3 +10,4 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: :)
 
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
