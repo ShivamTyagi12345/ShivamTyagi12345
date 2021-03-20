@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on opensource projects
 
                                              
-    visitors:)
+    
     ![Visitor Count](https://profile-counter.glitch.me/{ShivamTyagi12345}/count.svg)
 
  
