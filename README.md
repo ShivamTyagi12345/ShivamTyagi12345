@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on opensource projects
 
-<h2>Folks looking me up</h2>
+<h2>Folks looking me up ++</h2>
 
  ![Visitor Count](https://profile-counter.glitch.me/{ShivamTyagi12345}/count.svg)
 
