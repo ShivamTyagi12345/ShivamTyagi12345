@@ -10,13 +10,14 @@
 
 <br>
 
-- I’m currently working on
+- I’m currently working with
 ![](https://img.shields.io/badge/.-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=2bbc8a) 
 ![](https://img.shields.io/badge/.-Express-informational?style=flat&logo=Express&logoColor=white&color=2bbc8a) 
 ![](https://img.shields.io/badge/.-React-informational?style=flat&logo=React&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/.-NodeJS-informational?style=flat&logo=Node.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/.-Netlify-informational?style=flat&logo=Netlify&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/.-Git-informational?style=flat&logo=Git&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/.-VSCode-informational?style=flat&logo=VisualStudioCode&logoColor=white&color=2bbc8a)
 
 - I’m looking to collaborate on OpenSource  projects
 - Learning Cloud Native under SUSE Scholarship program 
