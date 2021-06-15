@@ -8,8 +8,9 @@
 
 
 
+<br>
 
--I’m currently working on
+- I’m currently working on
 ![](https://img.shields.io/badge/.-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=2bbc8a) 
 ![](https://img.shields.io/badge/.-Express-informational?style=flat&logo=Express&logoColor=white&color=2bbc8a) 
 ![](https://img.shields.io/badge/.-React-informational?style=flat&logo=React&logoColor=white&color=2bbc8a)
