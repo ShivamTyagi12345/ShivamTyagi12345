@@ -12,12 +12,11 @@
 - 👯 I’m looking to collaborate on opensource projects
 
 
-My work Summary | Experienced with
-----------------|------------------
-![ GitHub stats](https://github-readme-stats.vercel.app/api?username=ShivamTyagi12345&show_icons=true&theme=radical) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamTyagi12345&layout=compact)](https://github.com/ShivamTyagi12345/github-readme-stats)   
+ Experienced with | My work Summary
+----------------------|------------------
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamTyagi12345&layout=compact)](https://github.com/ShivamTyagi12345/github-readme-stats) |![ GitHub stats](https://github-readme-stats.vercel.app/api?username=ShivamTyagi12345&show_icons=true&theme=radical)  
+  Possible Connections++ |  Recent Contributions
+![Visitor Count](https://profile-counter.glitch.me/{ShivamTyagi12345}/count.svg) | [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ShivamTyagi12345&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<h2>Folks looking me up ++ <br></h2>
 
- ![Visitor Count](https://profile-counter.glitch.me/{ShivamTyagi12345}/count.svg)
  
-<!-- <img src="https://i.pinimg.com/originals/f4/52/a2/f452a2f4b634b3011e065da8eaf0a5c3.gif" width="1000"   /> -->
