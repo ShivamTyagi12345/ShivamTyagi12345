@@ -10,7 +10,7 @@
 
 
 - 🔭 I’m currently working on Backend WebDevelopment!
-- 👯 I’m looking to collaborate on opensource projects
+- 👯 I’m looking to collaborate on OpenSource projects
 - Connect  here:
  <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
