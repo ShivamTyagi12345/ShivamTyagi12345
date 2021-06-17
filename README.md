@@ -56,7 +56,7 @@
 
 
 <p align="center">
-  <b>Walk the walk,not just talk the talk <img src="https://lh3.googleusercontent.com/proxy/egAMwDX3NpW9Ri85WSLK2OyVue375nG1ghTXgm6wbyRJhj-dRl7a1zGi03ZAUgRlKG3xQv-urWA9ckSPOqyd3Fw4tsY8WkMT6Z5gWttEykLFoBEKk3mV39g9jgKeeUWSl-c59Qx-do4z" width="200"/> </b><br>
+  <b>Walk the walk,not just talk the talk <br> <br><img src="https://cdn.dribbble.com/users/230034/screenshots/1319843/radiohalo-800.gif" width="200"/> </b><br>
 </p>
 </h2>
 
