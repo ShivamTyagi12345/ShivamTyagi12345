@@ -20,7 +20,7 @@
 ![](https://img.shields.io/badge/.-Firebase-informational?style=flat&logo=Firebase&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/.-docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
-- I’m collaborate on OpenSource  projects
+- I collaborate on OpenSource  projects
 - Learning Cloud Native under SUSE Scholarship program 
 <img src="https://ci6.googleusercontent.com/proxy/3DQ8gnMPKLh6aSkhTwH-fqYXNWpH7BpBaF4RaTcSDXmvEqLgXjy_4lYPzZ59bifiFZmx5YTzbvx-ZsULkH4IEJIAXBfsGU1N0wKyzWE7zhJ8oQcUb9x_di-gA-ARuQ=s0-d-e1-ft#https://udacity-email.s3-us-west-2.amazonaws.com/SUSE+Scholarship+badge.png" width="100" />
 <!-- ![](https://img.shields.io/badge/.-OpenSource-informational?style=flat&logo=OpenSourceInitiative&logoColor=white&color=2bbc8a) -->
