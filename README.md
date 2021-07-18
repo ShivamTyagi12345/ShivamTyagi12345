@@ -1,6 +1,6 @@
 
 ![](https://img.shields.io/badge/UG_@_National_Institute_of_Technology_Patna-Looking_Out_for_MERN_oppurtunities-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)<br>
-Check *[My Resume](https://drive.google.com/file/d/1m4UIHJ4qNjP3qAxCJeH-6Qi7lmMMOxtK/view?usp=sharing)*.
+Check *[My Resume](https://drive.google.com/file/d/1u-5IfA2XZAS-8nfh_gRpQKsY4MCW-Dls/view?usp=sharing)*.
 <h2>
 <p align="center">
   <b>Hello <img src="https://pa1.narvii.com/7610/d5822a7d821e47f09e560bbb8dd53b1956325d05r1-500-500_hq.gif" width="60" height="60" /> </b><br>
