@@ -75,7 +75,10 @@ Check *[My Resume](https://drive.google.com/file/d/1u-5IfA2XZAS-8nfh_gRpQKsY4MCW
 ----------------------|------------------
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamTyagi12345)](https://github.com/anuraghazra/github-readme-stats) |![ GitHub stats](https://github-readme-stats.vercel.app/api?username=ShivamTyagi12345&show_icons=true&theme=radical)  
  Possible Connections++ | Recent Contributions
-![Visitor Count](https://profile-counter.glitch.me/{ShivamTyagi12345}/count.svg) | [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ShivamTyagi12345&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Visitor Count](https://profile-counter.glitch.me/{ShivamTyagi12345}/count.svg) | ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShivamTyagi12345&theme=monokai)
+
+
+
 
 
  
