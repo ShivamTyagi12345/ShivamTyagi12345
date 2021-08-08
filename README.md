@@ -4,11 +4,12 @@ Check *[My Resume](https://drive.google.com/file/d/1xh-55dkBGjLLGKdDhyCP4bcWe_GS
 <h2>
 <p align="center">
   <b>Hello <img src="https://pa1.narvii.com/7610/d5822a7d821e47f09e560bbb8dd53b1956325d05r1-500-500_hq.gif" width="60" height="60" /> </b><br>
+  
   </p>
 </h2>
 
 
-
+https://octodex.github.com/images/saritocat.png
 - I’m currently working with<br>
 ![](https://img.shields.io/badge/.-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=2bbc8a) 
 ![](https://img.shields.io/badge/.-Express-informational?style=flat&logo=Express&logoColor=white&color=2bbc8a) 
@@ -69,7 +70,7 @@ Check *[My Resume](https://drive.google.com/file/d/1xh-55dkBGjLLGKdDhyCP4bcWe_GS
 
 
 <p align="center">
-  <b>Walk the walk,not just talk the talk <br> <br><img src="https://cdn.dribbble.com/users/230034/screenshots/1319843/radiohalo-800.gif" width="200"/> </b><br>
+  <b>Walk the walk,not just talk the talk <br> <br><img src="https://octodex.github.com/images/saritocat.png" width="200"/> </b><br>
 </p>
 </h2>
 
