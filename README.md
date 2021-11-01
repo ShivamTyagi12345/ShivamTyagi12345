@@ -38,7 +38,7 @@ Check *[My Resume](https://drive.google.com/file/d/1GKgodQ5bbBvxbE_iOp2qvZWu4wAW
 
  
  
-### Connect with me
+### Connect with me.
   <a href="https://twitter.com/ShivamT43462891">
     <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
   </a>&ensp;
