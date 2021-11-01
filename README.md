@@ -59,7 +59,7 @@ Check *[My Resume](https://drive.google.com/file/d/1GKgodQ5bbBvxbE_iOp2qvZWu4wAW
  Experienced with | My work Summary
 ----------------------|------------------
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamTyagi12345)](https://github.com/anuraghazra/github-readme-stats) |![ GitHub stats](https://github-readme-stats.vercel.app/api?username=ShivamTyagi12345&show_icons=true&theme=radical)  
- Possible Connections++ | Recent Contributions
+ Profile Hits | Recent Contributions
 ![Visitor Count](https://profile-counter.glitch.me/{ShivamTyagi12345}/count.svg) | ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShivamTyagi12345&theme=monokai)
 
 
