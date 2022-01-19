@@ -50,7 +50,7 @@ Check *[My Resume](https://drive.google.com/file/d/1GKgodQ5bbBvxbE_iOp2qvZWu4wAW
   </a>
 
 
-<a href="https://app.daily.dev/ShivamTyagi1234"><img src="https://api.daily.dev/devcards/ede3213852d249ad8af2e9618162622b.png?r=x2z" width="400" alt="shivam tyagi's Dev Card"/></a>
+
 
  Experienced with | My work Summary
 ----------------------|------------------
