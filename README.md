@@ -9,7 +9,7 @@ Check *[My Resume](https://drive.google.com/file/d/1GKgodQ5bbBvxbE_iOp2qvZWu4wAW
   </p>
 </h2>
 
-- DevRel team @DataOnKubernetes 
+- DevRel team <a href="https://dok.community/">DataOnKubernetes</a> Community 
 - Mentor @ PostMan API Fest 22
 - Member at Kubernetes and Kubernetes/SIGs 
 - GDSC NITPatna Web dev Team - <a href="https://environmental-awareness-app.vercel.app/"> Current project </a>
