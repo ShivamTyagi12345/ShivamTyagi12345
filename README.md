@@ -11,6 +11,7 @@ Check *[My Resume](https://drive.google.com/file/d/1GKgodQ5bbBvxbE_iOp2qvZWu4wAW
 - DevRel team @DataOnKubernetes 
 - Mentor @ PostMan API Fest 22
 - Member at Kubernetes and Kubernetes/SIGs 
+- GDSC NITPatna Web dev Team - <a href="environmental-awareness-app.vercel.app"> Current project </a>
 - I’m currently working with<br>
 ![](https://img.shields.io/badge/.-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=2bbc8a) 
 ![](https://img.shields.io/badge/.-Express-informational?style=flat&logo=Express&logoColor=white&color=2bbc8a) 
