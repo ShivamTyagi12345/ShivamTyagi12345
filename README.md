@@ -3,7 +3,8 @@
 Check *[My Resume](https://drive.google.com/file/d/1GKgodQ5bbBvxbE_iOp2qvZWu4wAWET0x/view?usp=sharing)*.
 <h2>
 <p align="center">
-  <b>Hello <img src="https://pa1.narvii.com/7610/d5822a7d821e47f09e560bbb8dd53b1956325d05r1-500-500_hq.gif" width="60" height="60" /> </b><br>
+  <b><a href="https://shivamty.bio.link/">
+    Hello </a> <img src="https://pa1.narvii.com/7610/d5822a7d821e47f09e560bbb8dd53b1956325d05r1-500-500_hq.gif" width="60" height="60" /> </b><br>
   
   </p>
 </h2>
