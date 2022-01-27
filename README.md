@@ -10,7 +10,7 @@ Check *[My Resume](https://drive.google.com/file/d/1GKgodQ5bbBvxbE_iOp2qvZWu4wAW
 
 - DevRel team @DataOnKubernetes 
 - Mentor @ PostMan API Fest 22
-
+- Member at Kubernetes and Kubernetes/SIGs 
 - I’m currently working with<br>
 ![](https://img.shields.io/badge/.-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=2bbc8a) 
 ![](https://img.shields.io/badge/.-Express-informational?style=flat&logo=Express&logoColor=white&color=2bbc8a) 
@@ -21,9 +21,6 @@ Check *[My Resume](https://drive.google.com/file/d/1GKgodQ5bbBvxbE_iOp2qvZWu4wAW
 ![](https://img.shields.io/badge/.-Firebase-informational?style=flat&logo=Firebase&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/.-docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
-
-
-  
 - Completed The Cloud Native under SUSE Scholarship program 
 <img src="https://udacity-email.s3.us-west-2.amazonaws.com/SUSE/SUSE_Scholarship_Finalist_Badge.png?bsft_aaid=affd8710-61ff-4001-baca-1d4a7303381d&bsft_eid=c10c73ad-a3fc-4be5-8a8e-406fe76a2062&utm_campaign=sch_600_2021-08-04_ndxxx_suse-100-completion-badge&utm_source=blueshift&utm_medium=email&utm_content=sch_600_2021-08-04_ndxxx_suse-100-completion-badge&bsft_clkid=cd441bf3-1a31-4450-b484-3cbff46cce46&bsft_uid=5f96aa9a-8ee3-48f3-ac66-5fcc000dc79a&bsft_mid=2600fb79-36bb-49ae-8b53-2fda68d80514&bsft_mime_type=html&bsft_ek=2021-08-04T13%3A22%3A39Z&bsft_lx=4&bsft_tv=7" width="120" />
 <!-- ![](https://img.shields.io/badge/.-OpenSource-informational?style=flat&logo=OpenSourceInitiative&logoColor=white&color=2bbc8a) -->
