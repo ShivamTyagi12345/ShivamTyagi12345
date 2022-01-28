@@ -1,6 +1,6 @@
 
 ![](https://img.shields.io/badge/UG_@_National_Institute_of_Technology_Patna-Looking_Out_for_MERN_oppurtunities-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)<br>
-Check *[My Resume](https://drive.google.com/drive/u/1/my-drive)*.
+Check *[My Resume](https://drive.google.com/file/d/1aG2B3zEnfVycOEMzhdhRxo46l_xt-sXR/view?usp=sharing)*.
 <h2>
 <p align="center">
   <b><a href="https://shivamty.bio.link/">
