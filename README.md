@@ -10,7 +10,7 @@ Check *[My Resume](https://drive.google.com/file/d/1GKiRS0lI1rXPk_FNip_g0NWu4yQ6
 </h2>
 
 - DevRel team <a href="https://dok.community/">DataOnKubernetes</a> Community 
-- Mentor @ PostMan API Fest 22- Mentored Tean#32 to successfully implement and deploy YoutubeDataAPI app- <a href="https://api-fest.pages.dev/">api-fest </a>
+- Mentor @ PostMan API Fest 22- Mentored Team#32 to successfully implement and deploy YoutubeDataAPI app- <a href="https://api-fest.pages.dev/">api-fest </a>
 - Member at Kubernetes and Kubernetes/SIGs 
 - GDSC NITPatna Web dev Team - <a href="https://environmental-awareness-app.vercel.app/"> Current project </a>
 - I’m currently working with<br>
