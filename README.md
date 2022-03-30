@@ -9,6 +9,7 @@ Check *[My Resume](https://drive.google.com/file/d/1GKiRS0lI1rXPk_FNip_g0NWu4yQ6
   </p>
 </h2>
 
+- Lead Organizer at <a href="https://community.cncf.io/patna/">CNCF Patna </a> Chapter
 - DevRel team <a href="https://dok.community/">DataOnKubernetes</a> Community 
 - Mentor @ PostMan API Fest 22- Mentored Team#32 to successfully implement and deploy YoutubeDataAPI app- <a href="https://api-fest.pages.dev/">api-fest </a>
 - Member at Kubernetes and Kubernetes/SIGs 
