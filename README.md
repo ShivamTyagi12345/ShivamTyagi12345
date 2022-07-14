@@ -2,11 +2,15 @@
 ![](https://img.shields.io/badge/UG_@_National_Institute_of_Technology_Patna-Looking_Out_for_MERN_oppurtunities-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)<br>
 Check *[My Resume](https://drive.google.com/file/d/1eFiveySNXvKzEh_NR4YQwR95-fbg3dru/view?usp=sharing)*.
 <h2>
+
 <p align="center">
   <b><a href="https://shivamty.bio.link/">
     Hello </a> <img src="https://pa1.narvii.com/7610/d5822a7d821e47f09e560bbb8dd53b1956325d05r1-500-500_hq.gif" width="60" height="60" /> </b><br>
   
   </p>
+
+![Sky Blue Pastel Illustration Cloud Quote Twitter Header](https://user-images.githubusercontent.com/60812924/178927916-75d4d5b8-32d0-45b5-bc4c-aa640da34138.gif)
+
 </h2>
 
 - Backend Mentor at <a href="https://shecodeafrica.org/">shecodeafrica.org </a> helping create an Africa where women are equally represented across all career roles in technology.
