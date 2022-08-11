@@ -6,6 +6,7 @@ Check *[My Resume](https://drive.google.com/file/d/1eFiveySNXvKzEh_NR4YQwR95-fbg
 
 </h2>
 
+- Ambassador at <a href="https://www.semasoftware.com/"> Sema </a> Chapter
 - Backend Mentor at <a href="https://shecodeafrica.org/">shecodeafrica.org </a> helping create an Africa where women are equally represented across all career roles in technology.
 - Lead Organizer at <a href="https://community.cncf.io/patna/">CNCF Patna </a> Chapter
 - DevRel team <a href="https://dok.community/">DataOnKubernetes</a> Community 
