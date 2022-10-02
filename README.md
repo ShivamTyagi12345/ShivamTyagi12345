@@ -6,7 +6,8 @@ Check *[My Resume](https://drive.google.com/file/d/1GHI-cYY7KgxQQViVJMEoKl1ut7lF
 
 </h2>
 
-- reviewing Code at <a href="https://www.semasoftware.com/"> Sema </a> software🤗
+- Capturing all network calls for an API request and replaying them later during testing, all while having fun, at [keploy](https://keploy.io/)
+- Reviewing Code at <a href="https://www.semasoftware.com/"> Sema </a> software🤗
 - Backend Mentor at <a href="https://shecodeafrica.org/">shecodeafrica.org </a> helping create an Africa where women are equally represented across all career roles in technology.
 - Lead Organizer at <a href="https://community.cncf.io/patna/">CNCF Patna </a> Chapter
 - DevRel team <a href="https://dok.community/">DataOnKubernetes</a> Community 
