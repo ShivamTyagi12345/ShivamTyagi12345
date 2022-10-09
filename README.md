@@ -15,24 +15,22 @@ Check *[My Resume](https://drive.google.com/file/d/16auNZP9m5JkFXG6Mrj6vCXQqDQDt
 - Member at Kubernetes and Kubernetes/SIGs 
 - GDSC NITPatna Web dev Team - <a href="https://environmental-awareness-app.vercel.app/"> Current project </a>
 - I’m currently working with<br>
+
+![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
 ![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 ![](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
-![](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 - Completed The Cloud Native under SUSE Scholarship program 
 <img src="https://udacity-email.s3.us-west-2.amazonaws.com/SUSE/SUSE_Scholarship_Finalist_Badge.png?bsft_aaid=affd8710-61ff-4001-baca-1d4a7303381d&bsft_eid=c10c73ad-a3fc-4be5-8a8e-406fe76a2062&utm_campaign=sch_600_2021-08-04_ndxxx_suse-100-completion-badge&utm_source=blueshift&utm_medium=email&utm_content=sch_600_2021-08-04_ndxxx_suse-100-completion-badge&bsft_clkid=cd441bf3-1a31-4450-b484-3cbff46cce46&bsft_uid=5f96aa9a-8ee3-48f3-ac66-5fcc000dc79a&bsft_mid=2600fb79-36bb-49ae-8b53-2fda68d80514&bsft_mime_type=html&bsft_ek=2021-08-04T13%3A22%3A39Z&bsft_lx=4&bsft_tv=7" width="120" />
